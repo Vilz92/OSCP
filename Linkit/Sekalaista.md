@@ -8,6 +8,10 @@
 * https://support.offensive-security.com/proctoring-faq/
 * https://support.offensive-security.com/oscp-exam-guide/
 
+## Reverse shell lunttilappu
+* https://highon.coffee/blog/reverse-shell-cheat-sheet/
+* https://github.com/xapax/security/blob/master/reverse-shell.md
+
 ## Crackpot
 * https://pentestlab.blog/2017/04/24/windows-kernel-exploits/
 
@@ -35,6 +39,8 @@
 * https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
 * https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97
 * https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html
+* https://github.com/codingo/OSCP-2
+* https://ired.team/offensive-security-experiments/offensive-security-cheetsheets
 
 ## Rbashista murtautuminen scp:llä
 * http://pentestmonkey.net/blog/rbash-scp

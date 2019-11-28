@@ -33,6 +33,7 @@
 * https://gtfobins.github.io/#+sudo
 * https://www.securusglobal.com/community/2014/03/17/how-i-got-root-with-sudo/
 * https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
+* https://github.com/rekkatz/oscp-guide/blob/master/privilege_escalation_-_linux.md
 
 ## Windows privescaus skriptejä
 * https://github.com/pentestmonkey/windows-privesc-check
